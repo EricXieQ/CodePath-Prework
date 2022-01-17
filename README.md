@@ -2,9 +2,9 @@
 
 **Name of your app** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: **Eric Xie**
 
-Time spent: **X** hours spent in total
+Time spent: **2 hour** hours spent in total
 
 ## User Stories
 
@@ -29,7 +29,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/080XFYczgq.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](https://recordit.co/).
+GIF created with [recordit](https://recordit.co/).
 
 ## Notes
 
