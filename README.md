@@ -41,6 +41,8 @@ Describe any challenges encountered while building the app.
     - Tried downloading xcode on window PC, but require virtual box, and afteward would be slower than my 4G MacBook Air.
     - Also some of the gif in the prework page, was from xcode from the version before and it had me confuse why some of the CGI was different.
     - It was fun building it, and I'm going to attempt to do the bonuses as well.
+    - In addition, I did not understand half of the swift code I wrote within the tip calculator function, and why it worked. 
+    - Is a little fast pace, but I think I can catch up.
 
 ## License
 
