@@ -1,10 +1,10 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *prework*
 
-**Name of your app** is a tip calculator application for iOS.
+**Prework** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: **Eric Xie**
 
-Time spent: **X** hours spent in total
+Time spent: **10 hour** hours spent in total
 
 ## User Stories
 
@@ -27,13 +27,22 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/080XFYczgq.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [recordit](https://recordit.co/).
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+    - Drag and drop didn't work for sometime. Solved it after watching a youtube video onlie. Titled as xcode 13 tutorial.
+    - Downloading xcode took 3 hour.
+    - updating my outdated Mac computer took quite a long time. (can not afford a new one).
+    - Tried downloading xcode on window PC, but require virtual box, and afteward would be slower than my 4G MacBook Air.
+    - Also some of the gif in the prework page, was from xcode from the version before and it had me confuse why some of the CGI was different.
+    - It was fun building it, and I'm going to attempt to do the bonuses as well.
+    - In addition, I did not understand half of the swift code I wrote within the tip calculator function, and why it worked. 
+    - Is a little fast pace, but I think I can catch up.
 
 ## License
 
